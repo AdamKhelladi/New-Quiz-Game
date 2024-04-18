@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Why we use &lt;br&gt; Element",
+    "answer_1": "To make text bold",
+    "answer_2": "To make text italic",
+    "answer_3": "To add a breakline",
+    "answer_4": "To add a horizontal line",
+    "right_answer": "To add a breakline"
+  },
+  {
+    "title": "Which of the following is not a programming language?",
+    "answer_1": "Java",
+    "answer_2": "CSS",
+    "answer_3": "Python",
+    "answer_4": "Ruby",
+    "right_answer": "CSS"
+  },
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Science Society",
+    "answer_3": "Creative Style Solutions",
+    "answer_4": "Colorful Styling System",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "What is the purpose of JavaScript?",
+    "answer_1": "To provide styling for web pages",
+    "answer_2": "To create interactive web pages",
+    "answer_3": "To define the structure of web pages",
+    "answer_4": "To manage databases",
+    "right_answer": "To create interactive web pages"
+  },
+  {
+    "title": "Which symbol is used for comments in JavaScript?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "&lt;!-- --&gt;",
+    "answer_4": "#",
+    "right_answer": "//"
+  },
+  {
+    "title": "What is the output of 'console.log(typeof [])'?",
+    "answer_1": "array",
+    "answer_2": "object",
+    "answer_3": "string",
+    "answer_4": "undefined",
+    "right_answer": "object"
+  },
+  {
+    "title": "What does IDE stand for in programming?",
+    "answer_1": "Integrated Development Environment",
+    "answer_2": "Integrated Design Environment",
+    "answer_3": "Interactive Development Environment",
+    "answer_4": "Internet Development Environment",
+    "right_answer": "Integrated Development Environment"
+  },
+  {
+    "title": "In JavaScript, what is the purpose of the 'document.getElementById()' method?",
+    "answer_1": "To get the value of an element",
+    "answer_2": "To get the style of an element",
+    "answer_3": "To get an element by its ID",
+    "answer_4": "To get the parent element of an element",
+    "right_answer": "To get an element by its ID"
+  },
+  {
+    "title": "Which of the following is not a valid JavaScript variable name?",
+    "answer_1": "myVariable",
+    "answer_2": "_myVariable",
+    "answer_3": "3myVariable",
+    "answer_4": "$myVariable",
+    "right_answer": "3myVariable"
+  },
+  {
+    "title": "What is the output of the following JavaScript code: console.log(2 + '2')?",
+    "answer_1": "4",
+    "answer_2": "22",
+    "answer_3": "2",
+    "answer_4": "NaN",
+    "right_answer": "22"
+  }
+]
